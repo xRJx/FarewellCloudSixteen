@@ -1,0 +1,8 @@
+"cwswrp"
+{
+	"base"			"Clockwork"
+	"title"			"Star Wars RP"
+	"author"		"RJ"
+	"description"	"A roleplaying gamemode based on Star Wars the Clone Wars."
+	"version"		"1.00"
+}

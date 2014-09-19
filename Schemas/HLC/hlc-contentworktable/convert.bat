@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\gmad.exe" create -folder C:\Users\jonny\Desktop\Clockwork\HLC\Content\content\hlc-in -out C:\Users\jonny\Desktop\Clockwork\HLC\Content\hlc-out.gma

@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\gmad.exe" extract -file C:\Users\jonny\Desktop\Clockwork\HLC\Content\hlc-out.gma

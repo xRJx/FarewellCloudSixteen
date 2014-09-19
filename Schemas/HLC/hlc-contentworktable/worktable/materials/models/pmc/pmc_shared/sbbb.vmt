@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models/PMC/PMC_Shared/SBBB"
+	 "$normalmapalphaenvmapmask"	"1"
+}

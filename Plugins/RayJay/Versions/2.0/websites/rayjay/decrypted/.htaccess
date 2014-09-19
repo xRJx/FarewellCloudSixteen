@@ -1,0 +1,5 @@
+AuthName "My Protected Area"
+AuthType Basic
+AuthUserFile /home/exiguous/rayjay/decrypted/.htpasswd
+AuthGroupFile /dev/null
+require valid-user

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models/PMC/PMC_4/GEAR2"
+	 "$normalmapalphaenvmapmask"	"1"
+}

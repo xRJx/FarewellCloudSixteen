@@ -1,0 +1,9 @@
+"cwhlc"
+{
+	"base"			"Clockwork"
+	"title"			"Half-Life Consequences"
+	"author"		"RJ"
+	"description"	"A roleplaying gamemode perceived after Half-Life 2."
+	"version"		"1.00"
+	"workshopid"	"162297324"
+}

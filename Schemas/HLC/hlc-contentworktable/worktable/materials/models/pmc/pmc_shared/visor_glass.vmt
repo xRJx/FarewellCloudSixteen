@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"	"models/PMC/PMC_Shared/VISOR_glass"
+	"$envmap" 	"env_cubemap"
+	"$translucent" 1
+	"$nocull" 1
+
+	
+	
+}

@@ -1,0 +1,31 @@
+-Includes a jetpack entity but not the item
+-Regular attributes
+-Clone rank ordering on the scoreboard
+-Default inventory for clones
+-Made with the skeleton, only requires a dev key
+-Includes the junk mod
+-DC-15/DC-15s SWEP
+-Gatling Gun SWEP
+
+=Factions=
+Clones
+Jedi
+Sith
+
+=Items=
+RPG Ammo
+Bio Gel
+Commando Uniform
+Engineer Uniform
+Health Kit
+Heavy Uniform
+Infantry Uniform
+Medic Uniform
+Ration
+Scout Uniform
+Stamina Timpack
+DC-15
+DC-15s
+Frag Grenade
+Gatling Gun
+RPG

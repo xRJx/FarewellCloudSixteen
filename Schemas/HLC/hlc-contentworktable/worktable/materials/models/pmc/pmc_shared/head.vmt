@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/PMC/PMC_Shared/head"
+	
+
+	"$surfaceprop"	"flesh"
+	"$model"		1
+	"$halflambert"	"1"
+}

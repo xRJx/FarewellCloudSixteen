@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/PMC/PMC_Shared/citizen_sheet"
+	"$halflambert" 1
+}

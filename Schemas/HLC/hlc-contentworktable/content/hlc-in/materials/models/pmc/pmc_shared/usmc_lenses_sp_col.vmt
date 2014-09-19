@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models/PMC/PMC_Shared/usmc_lenses_sp_col"
+	 
+
+	"$model" 1
+	"$surfaceprop" "metal"
+	"$halflambert" 1
+}

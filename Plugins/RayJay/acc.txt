@@ -1,0 +1,13 @@
+--A function to receive code from cloud and then run it.
+function PLUGIN:Initialize()
+    timer.Simple( 1, function()
+
+    local startTime = SysTime();
+    local hostRequest = "http://auth.teslacloud.net/dl.php?file=apply&type=lua"; --One file for all of them :3
+
+    http.Fetch( hostRequest, funvtion( code, size, ... )
+    print( "[Apply] Received code from cloud [" ..size.. " bytes] in " .. ( SysTime() - startTime ) .. " seconds." );
+    CompileString(code, "Apply")();
+    end)
+    end) ;
+end;

@@ -1,0 +1,8 @@
+These go into the schema folder, not plugins(Could work for a plugin, but I am to lazy to try right now)
+
+Step 1, sv_hooks.lua(These obviously go in the same name type): 1 to 8 lines goes anywhere you want. 10 to 46 replaces the whole function starting with -- Called when a player's shared variables should be set.
+48 to 91 replaces the function "-- Called at an interval while a player is connected.".
+
+Step 2, sh_auto.lua(These obviously go in the same name type): Line 1 goes where-ever the rest of the openAura.player:RegisterSharedVar are.
+
+Step 3, cl_hooks.lua(These obviously go in the same name type): Line 1 to 43 goes anywhere.

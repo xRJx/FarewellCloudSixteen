@@ -1,0 +1,1 @@
+DeriveGamemode("clockwork");

@@ -1,0 +1,18 @@
+Scenario:
+Two guys sittin by a camp fire laughing it up with a beer in each hand
+
+Plot:
+Song plays
+Fades from black to scene
+Zooming in between them both
+Both are laughing then click beers together
+Fades black then back in from behind them
+Begins zooming in
+Shadow comes over the two and both look back surprised
+
+Song:
+http://www.youtube.com/watch?v=vN_86OFqpH0
+
+Models:
+male_07 - Medic
+male_09 - Ressie Uniform

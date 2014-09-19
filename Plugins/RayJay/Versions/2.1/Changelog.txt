@@ -1,0 +1,11 @@
+=MODULE=
++Added compatibility for XP/Vista platforms.
+~Randomized product/web tokens.
+
+=README=
++Added help for 'require' issues.
+
+=WEB=
+~Changed associated web token.
+~Version checking done before token checking now.
+~Version updated to 2.1.

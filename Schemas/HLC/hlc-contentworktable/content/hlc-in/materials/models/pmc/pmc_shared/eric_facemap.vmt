@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/PMC/PMC_Shared/eric_facemap"
+	"$halflambert" 1
+}

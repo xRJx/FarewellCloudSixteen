@@ -1,0 +1,51 @@
+http://steamcommunity.com/sharedfiles/filedetails/?id=156978497
+
+Factions:
+32nd Scouting Platoon | Model: models/player/sgg/starwars/clonetrooper_gree.mdl
+101st Engineering Platoon | Model: models/player/sgg/starwars/clonetrooper_501st.mdl
+67th Medical Platoon | Model: models/player/sgg/starwars/clonetrooper_212nd.mdl
+43rd Heavy Platoon | Model: models/player/sgg/starwars/clonetrooper_sky.mdl
+56th Infantry Platoon | Model: models/player/sgg/starwars/clonetrooper.mdl
+11th Commando Platoon | Model: models/sgg/starwars/clone_commando_mp_a.mdl
+Sith | Model: models/dpfilms/metropolice/playermodels/pm_phoenix_police.mdl
+Jedi | Model: models/dpfilms/metropolice/playermodels/pm_black_police.mdl
+Droids | Models: REFER TO ‘KOTOR DROIDS PACK’ ADDON
+Off-Duty Trooper | Models: REFER TO ‘CONSCRIPTS’ ADDON
+Privates | Model: models/player/sgg/starwars/clonetrooper_clean.mdl
+
+Map:
+rp_stardestroyer_b2_1.bsp
+
+
+*More*
+
+Weapons:
+dc-15
+dc-15s
+Gatling Gun
+Half Life 2 RPG
+Half Life 2 Grenades
+
+Items: (Stimulants, food, ect)
+HL2RP supplement
+Water
+Stamina revitalizer... Thingy
+Biogel
+Medkit
+
+Extra Notes
+All classes require a whitelist. All new players only have access to ‘Privates’
+‘Privates’ spawn with no weapons. Only ‘Keys’ and ‘Hands’.
+
+All other factions spawn with a dc-15 and dc-15s in their inventory with exception of the following:
+•
+Jedi
+
+•
+Sith
+
+•
+Droids
+
+•
+Off-Duty Troopers

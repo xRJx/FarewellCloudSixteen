@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models/PMC/PMC_4/Band"
+	 
+
+	"$model" 1
+	"$surfaceprop" "carpet"
+	"$halflambert" 1
+}

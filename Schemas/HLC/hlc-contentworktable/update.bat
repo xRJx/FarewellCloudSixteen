@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\gmpublish.exe" update -addon C:\Users\jonny\Desktop\HLC\Assets\hlc-out.gma -id 162297324

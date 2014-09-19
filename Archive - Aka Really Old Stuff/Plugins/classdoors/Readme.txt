@@ -1,0 +1,1 @@
+A way to set doors for certain classes.

@@ -1,0 +1,769 @@
+Wednesday, February 05, 2014
+7:05 PM - Duck: Ayy
+7:05 PM - RJ: Ohai
+7:05 PM - Duck: Have you already set up visual studio
+7:06 PM - RJ: No
+7:06 PM - Duck: okay
+7:06 PM - Duck: give me your teamviewer
+7:06 PM - Duck: info
+7:06 PM - RJ: Kk
+7:06 PM - RJ: 665 782 234
+7:06 PM - RJ: 2961
+7:08 PM - Duck: can't type
+7:08 PM - Duck: or click, I think
+7:08 PM - RJ: Odd
+7:09 PM - Duck: go try and solve it :V
+7:09 PM - RJ: Okey dokey
+7:10 PM - RJ: No idea what's up, can't even find the option to enable/disable access
+7:10 PM - Duck: lemme reconnect
+7:10 PM - RJ: Kk
+7:12 PM - RJ: Which program do you use specifically?
+7:12 PM - Duck: visual studio
+7:12 PM - Duck: 2012 C++
+7:12 PM - Duck: actually 2013 I think
+7:13 PM - Duck: lemme do it
+7:13 PM - RJ: Kk
+7:14 PM - RJ: oops
+7:14 PM - RJ: meant to minimize that
+7:15 PM - Duck: tell me when yer done
+7:15 PM - RJ: Kk
+7:17 PM - RJ: It requires Windows 8 >.>
+7:17 PM - Duck: get 2012 then
+7:19 PM - RJ: There is no 2012, Imma get c++ 2010 express
+7:19 PM - Duck: there is 2012
+7:19 PM - Duck: sec
+7:19 PM - RJ: Mkay
+7:19 PM - Duck: http://www.microsoft.com/en-us/download/details.aspx?id=34673
+7:20 PM - RJ: Thank ya
+7:20 PM - Duck: np
+7:20 PM - Duck: hoe
+7:20 PM - RJ: D,:
+7:22 PM - RJ: How many modules have you made for gmod?
+7:22 PM - Duck: 1
+7:22 PM - RJ: What does it do? :o
+7:22 PM - Duck: encrypt stuff
+7:22 PM - RJ: Oh yeah
+7:22 PM - Duck: doesn't execute
+7:22 PM - RJ: That thingy
+7:23 PM - Duck: I changed it
+7:23 PM - Duck: all it does is return encrypted shiz
+7:23 PM - Duck: and decrypt too
+7:23 PM - RJ: Cool :D
+7:23 PM - RJ: "There's not much else you can do and I've yet to hear of anyone bypassing CAX3"
+7:23 PM - RJ: >.>
+7:23 PM - RJ: not much else you can do
+7:23 PM - RJ: riiiiiiiiiiiight
+7:23 PM - RJ: Brb, gotta get supper
+7:23 PM - Duck: how long
+7:23 PM - RJ: 20 minutes or so
+7:24 PM - RJ: I'm leaving it to DL too
+7:24 PM - Duck: alrighty ima go to the store
+7:24 PM - RJ: Kk
+7:24 PM - Duck: will be back
+7:24 PM - RJ: Same
+7:38 PM - Duck is now Online.
+7:55 PM - Duck: when you be back hoe
+7:55 PM - Duck: been a while
+7:56 PM - RJ: I'm back now
+7:56 PM - RJ: Sorry about that
+7:56 PM - Duck: okely dokely
+7:56 PM - Duck: hurreh and install it
+7:56 PM - RJ: It's installed
+7:57 PM - Duck: what's the tv pass
+7:57 PM - RJ: 2961
+7:57 PM - Duck: ye
+7:59 PM - Duck: yep
+7:59 PM - Duck: sec
+8:01 PM - Duck: you want the dark theme or the light theme for visual studio?
+8:01 PM - RJ: Dark
+8:01 PM - Duck: here IIRC
+8:02 PM - Duck: if I stop moving then
+8:02 PM - Duck: it means I'm alt tabbed looking at the guide
+8:02 PM - RJ: Ye
+8:03 PM - Duck: yeah
+8:03 PM - Duck: gmcl for client
+8:03 PM - Duck: I don't think so
+8:04 PM - Duck: yeah
+8:04 PM - Duck: includes the shiz
+8:06 PM - Duck: to make it so that we don't have to use
+8:06 PM - Duck: GarrysMod::Lua::whatever
+8:06 PM - Duck: every time
+8:06 PM - Duck: for simple stuff
+8:07 PM - Duck: oh wait forgot one thing
+8:08 PM - Duck: oops, forgot another
+8:09 PM - Duck: mkay
+8:10 PM - Duck: now I'm going to give you
+8:10 PM - Duck: some shiz I made based on stuff alex grist showed me
+8:10 PM - Duck: it will make your life easier
+8:11 PM - Duck is now Offline.
+8:11 PM - Your state is set to Offline.
+8:11 PM - Lost connection to Steam, will rejoin chat automatically when connection regained.
+8:12 PM - Connected again and rejoined chat.
+8:12 PM - Duck is now Online.
+8:12 PM - Duck: yeah he told me
+8:13 PM - Duck: laggy
+8:14 PM - Duck: what
+8:14 PM - Duck: I pasted it
+8:14 PM - Duck: that's the ting
+8:14 PM - Duck: alex grist showed me something like this
+8:14 PM - Duck: and I replicated it
+8:15 PM - Duck: with this thing I pasted
+8:15 PM - Duck: it has a bunch of common functions
+8:15 PM - Duck: I can't hear you your breaking up
+8:15 PM - Duck: cause da lag
+8:15 PM - RJ: lua_State =
+8:15 PM - RJ: ?
+8:15 PM - Duck: just the state of lua
+8:16 PM - RJ: sv/cl/sh?
+8:16 PM - Duck: all you need to know is that you need it as the first arg
+8:16 PM - Duck: of everything
+8:16 PM - Duck: doesn't matter what it is
+8:16 PM - Duck: if it interacts with lua it needs lua_State* state as first arg
+8:17 PM - Duck: huh
+8:17 PM - Duck: breakin up again
+8:17 PM - RJ: nvm
+8:18 PM - Duck: paste that in your server's lua/bin folder
+8:18 PM - Duck: start it up and watch how it prints
+8:18 PM - Duck: your breakin up
+8:19 PM - RJ: How would you have a function in a dll and then call that function from a lua file?
+8:19 PM - Duck: this isn't meant to teach you btw
+8:19 PM - Duck: I'll get to teachin
+8:19 PM - Duck: after this
+8:19 PM - Duck: just showin you how these functions work
+8:19 PM - RJ: Ye
+8:19 PM - RJ: I'm just asking because I'm curious
+8:19 PM - Duck: you gotta use the stack, and I'll show you how
+8:20 PM - Duck: oops
+8:20 PM - Duck: we didn't require it
+8:20 PM - Duck: lua/autorun/server and require("rayjay")
+8:21 PM - Duck: and thar we go
+8:21 PM - Duck: printed hello
+8:21 PM - Duck: yeeeesss
+8:21 PM - Duck: so now let's get to the stack
+8:21 PM - Duck: this lag is makin it hard, though
+8:22 PM - Duck: are you updating a game or somethin
+8:22 PM - RJ: No
+8:22 PM - Duck: ooo
+8:22 PM - RJ: My internet has been shoity for past week or so
+8:22 PM - Duck: alrighty
+8:22 PM - RJ: too much porn
+8:22 PM - Duck: worth it
+8:22 PM - Duck: in most cases
+8:22 PM - Duck: you want to get the global table
+8:22 PM - Duck: when you "get" something
+8:22 PM - Duck: you place it on top of the stack
+8:23 PM - Duck: it's literally a stack of shit
+8:23 PM - Duck: newspapers, papers, whatever
+8:23 PM - Duck: the top of the stack
+8:23 PM - Duck: is located at -1
+8:23 PM - Duck: don't ask why but it just is
+8:23 PM - Duck: I'm new to modules too
+8:23 PM - Duck: I made a function to place the global table on top of the stack
+8:24 PM - Duck: so right now we're going to get the global table
+8:24 PM - Duck: fuuuuuck the lag
+8:24 PM - RJ: What's the global table?
+8:24 PM - Duck: the global table of lua
+8:24 PM - RJ: Ah
+8:24 PM - Duck: the global table holds all global shit
+8:24 PM - Duck: do you know about _G?
+8:24 PM - RJ: ye
+8:24 PM - RJ: wait
+8:25 PM - RJ: Refresh?
+8:25 PM - RJ: *Refresh me?
+8:25 PM - Duck: a = 1
+8:25 PM - Duck: print(_G["a"])
+8:25 PM - Duck: ---> 1
+8:25 PM - Duck: it's where every global function and var is
+8:25 PM - RJ: Ah
+8:26 PM - RJ: I sort of know of it
+8:26 PM - Duck: ye, it's ezpz
+8:26 PM - Duck: just a normal table pretty much
+8:26 PM - RJ: I remember looking over the github of gmod or something
+8:26 PM - Duck: alrighty
+8:26 PM - Duck: well let's continue on
+8:26 PM - RJ: Ye
+8:26 PM - Duck: we're placing _G at the top of the stack with this function
+8:27 PM - Duck: we must always put the lua state as the first argument
+8:27 PM - RJ: Ye
+8:27 PM - Duck: now what exactly are you trying to do?
+8:27 PM - RJ: It's basicly a plugin security
+8:27 PM - Duck: how will it secure it though
+8:27 PM - RJ: Loads files from a web server
+8:28 PM - Duck: how would it load the file?
+8:28 PM - RJ: Secret :3
+8:28 PM - Duck: okays
+8:28 PM - Duck: but what in lua do you want to do
+8:28 PM - RJ: I basicly need a function in a dll that I can call from a plugin
+8:28 PM - Duck: what will the function do
+8:29 PM - Duck: download an actual file or?
+8:28 PM - RJ: Loads the files
+8:29 PM - RJ: No downloading
+8:29 PM - RJ: Well
+8:29 PM - Duck: the end result will always be RunString = print to bypass it
+8:29 PM - RJ: Yes downloading, but only temp
+8:29 PM - RJ: Imma talk to kuro to see if he can help
+8:29 PM - RJ: If not, I'll find a way to secure it
+8:29 PM - Duck: I doubt he would, but alright
+8:29 PM - RJ: Ye
+8:29 PM - Duck: sounds like you need cURL
+8:30 PM - Duck: it lets you POST to pages and get the response and stuff
+8:30 PM - Duck: okay
+8:30 PM - Duck: easy
+8:30 PM - RJ: I just need to know how to make the function just like "function RayJay.Load(product, key)"
+8:30 PM - RJ: Ye
+8:30 PM - RJ: Then I can take care of the rest
+8:30 PM - Duck: alrighty
+8:31 PM - Duck: god fuck this lag in the dick
+8:31 PM - RJ: {
+8:31 PM - RJ: yup
+8:31 PM - Duck: every function needs to return something
+8:31 PM - Duck: 0 means to return nothing
+8:31 PM - RJ: Kk
+8:32 PM - Duck: you don't return anything besides the amount of what you're returning
+8:32 PM - Duck: if your function returns 1 thing
+8:32 PM - Duck: return 1
+8:32 PM - Duck: are you gonna have it return something?
+8:32 PM - RJ: Hmm...
+8:32 PM - RJ: Just one thing, printing success/failure in loading
+8:32 PM - Duck: okay
+8:32 PM - Duck: we don't need to return for that, though
+8:32 PM - Duck: just gotta print
+8:32 PM - RJ: Ye
+8:33 PM - Duck: go ahead and return 0
+8:33 PM - Duck: is it going to be in a table?
+8:33 PM - Duck: like how CloudAuthX has it?
+8:33 PM - Duck: External is inside CloudAuthX table
+8:33 PM - RJ: I'm not sure, can you explain more?
+8:34 PM - Duck: CloudAuthX.External
+8:34 PM - Duck: CloudAuthX is the table
+8:34 PM - Duck: External is inside the table
+8:34 PM - Duck: are you going to make it RayJay.Auth or something?
+8:34 PM - Duck: or just RayJay?
+8:34 PM - RJ: Ahh
+8:34 PM - RJ: Ye, RayJay.load or something
+8:34 PM - Duck: mkay
+8:34 PM - Duck: now
+8:35 PM - Duck: we should declare the arguments
+8:35 PM - Duck: in the RayJay function
+8:35 PM - Duck: const char* product = LUA->GetString(1);
+8:35 PM - Duck: that is getting the first argument
+8:35 PM - Duck: second argument is 2, etc.
+8:35 PM - Duck: go ahead and do that
+8:36 PM - Duck: const char* is basically a string in C++
+8:36 PM - RJ: Ah
+8:36 PM - Duck: not inside the func args
+8:36 PM - RJ: Hm?
+8:36 PM - Duck: the only args inside the actual func should be lua_State
+8:36 PM - Duck: put it in the contents of the function
+8:36 PM - RJ: Before return?
+8:36 PM - Duck: always before
+8:37 PM - Duck: first we should make it error if they're using something other than a string
+8:37 PM - Duck: we can do this easily by using LUA->CheckType
+8:37 PM - Duck: use LUA->CheckType before declaring the strings
+8:37 PM - Duck: don't copy and paste
+8:37 PM - RJ: No if..else?
+8:37 PM - Duck: no no if else
+8:37 PM - Duck: just LUA->CheckType
+8:37 PM - Duck: don't copy and paste
+8:38 PM - Duck: type it out and look at the arguments
+8:38 PM - Duck: the stack pos is 1
+8:38 PM - Duck: That is our first argument
+8:38 PM - RJ: What is the type?
+8:38 PM - RJ: *iType
+8:39 PM - Duck: Type::
+8:39 PM - Duck: put that
+8:39 PM - Duck: and look at the options it gives you
+8:39 PM - RJ: :D?
+8:39 PM - Duck: what type do you want the first argument to be
+8:39 PM - RJ: Just plain text
+8:39 PM - Duck: yeah
+8:39 PM - Duck: exactly you got it
+8:39 PM - Duck: Type::STRING
+8:39 PM - RJ: And it'll be plain text for the key as well
+8:39 PM - Duck: yeah
+8:40 PM - Duck: Do the same for arg2
+8:40 PM - Duck: now if they use something that isn't a string
+8:40 PM - Duck: it'll throw that generic error you see
+8:40 PM - Duck: bad argument to RayJay (string expected, got whatever)
+8:40 PM - RJ: Okey dokey
+8:41 PM - RJ: Gotta see how you worded it
+8:41 PM - RJ: I use parameter
+8:41 PM - RJ: But you use argument
+8:41 PM - Duck: parameter is usually used when you're declaring the function, argument is usually used when you're actually using it
+8:41 PM - Duck: but I prefer arg
+8:41 PM - RJ: Ye
+8:42 PM - Duck: now we're going to create the RayJat table
+8:42 PM - Duck: RayJay*
+8:42 PM - Duck: rename the RayJay function to "Auth"
+8:42 PM - Duck: go into the opening function
+8:42 PM - Duck: the function that is called when the module opens
+8:43 PM - Duck: getglobal should be on top
+8:43 PM - Duck: and you should also use
+8:43 PM - Duck: int GlobalTable = GetGlobal(state);
+8:43 PM - Duck: this is called a reference
+8:44 PM - Duck: so now we're going to actually create the table
+8:44 PM - Duck: Create a table named RayJay
+8:44 PM - Duck: set it equal to table::Create
+8:45 PM - Duck: int RayJay
+8:45 PM - Duck: remember, all tables are int
+8:45 PM - Duck: now look at the arguments for table::Create
+8:45 PM - RJ: :D?
+8:45 PM - Duck: good work
+8:45 PM - Duck: yep yep
+8:45 PM - RJ: Awesome
+8:46 PM - Duck: really that's all there is to it when creating a table
+8:46 PM - Duck: the next is to push it onto the global table
+8:46 PM - Duck: actually the next step is to add our function
+8:46 PM - Duck: use
+8:46 PM - Duck: table::PushCFunc
+8:46 PM - Duck: ::
+8:46 PM - Duck: need ::
+8:46 PM - RJ: Ohh
+8:46 PM - Duck: loool
+8:46 PM - RJ: ewps
+8:47 PM - Duck: the name of the function
+8:47 PM - Duck: has to be a string
+8:47 PM - Duck: nah, just "Auth"
+8:48 PM - Duck: Auth
+8:48 PM - Duck: is our func
+8:48 PM - Duck: easy as cake
+8:48 PM - Duck: the final step
+8:48 PM - Duck: is to push our RayJay table into the global table
+8:48 PM - Duck: use
+8:48 PM - Duck: table::PushTable
+8:49 PM - Duck: no
+8:49 PM - Duck: look at the argument
+8:49 PM - Duck: TargetTable
+8:49 PM - Duck: you got it
+8:49 PM - Duck: and the name of the table
+8:49 PM - Duck: RayJay
+8:49 PM - Duck: as a string
+8:49 PM - RJ: Ahhh
+8:50 PM - RJ: I see now, that's why they say the const char there
+8:50 PM - Duck: yeah
+8:50 PM - Duck: just try to get it in your mind that
+8:50 PM - Duck: const char* is like lua string
+8:50 PM - Duck: now the only part left is for your auth stuff
+8:50 PM - Duck: oh and
+8:50 PM - Duck: we should free our reference
+8:50 PM - Duck: s
+8:51 PM - Duck: in the opening of the module
+8:51 PM - Duck: right before the return
+8:51 PM - Duck: LUA->ReferenceFree(GlobalTable)
+8:51 PM - Duck: and the RayJay table too
+8:51 PM - Duck: and you can put like
+8:51 PM - Duck: print
+8:51 PM - Duck: RayJay intiailized or whatever
+8:52 PM - RJ: Can it go after the return?
+8:52 PM - Duck: IDK
+8:52 PM - Duck: in lua, you can't do anything after return
+8:52 PM - Duck: return always has to be the last
+8:52 PM - Duck: I'm guessing it's like that in C++ too
+8:53 PM - Duck: the only part left is your super secret formula
+8:53 PM - RJ: :D
+8:53 PM - Duck: you should make it print the arguments
+8:53 PM - Duck: in the Auth function
+8:53 PM - Duck: make it print the args
+8:53 PM - Duck: just so we can test it first
+8:54 PM - Duck: in c++ you can't concatenate like that
+8:54 PM - RJ: fuk
+8:54 PM - Duck: yeah, it's a little weird
+8:54 PM - Duck: no like
+8:54 PM - Duck: can't concat at all
+8:54 PM - RJ: dafuq
+8:54 PM - Duck: just make it print the product
+8:54 PM - Duck: or make it print separate
+8:54 PM - Duck: okay now rebuild, put that shit in lua/bin
+8:54 PM - Duck: and start that shit up
+8:56 PM - RJ: Do you know how to colour the printing? :P
+8:56 PM - Duck: you can use MsgC
+8:56 PM - Duck: I think it's about time you REALLY get to know the stack
+8:56 PM - Duck: you've been using these premade functions
+8:56 PM - RJ: :D:
+8:56 PM - Duck: I'll show you how to do it barebones
+8:57 PM - Duck: with no extra functions
+8:57 PM - Duck: but teamviewer is frozen for me
+8:57 PM - Duck: sec
+8:57 PM - RJ: Kk
+8:58 PM - Duck: you forgot the comma
+8:58 PM - RJ: :D?
+8:58 PM - Duck: looool
+8:59 PM - Duck: gotta wait for slow ass CAX
+8:59 PM - RJ: How to timer?
+8:59 PM - Duck: I will after I show you the stack
+8:59 PM - Duck: tah dah
+8:59 PM - RJ: wai no do it der? D:
+9:00 PM - Duck: you did something wrong, IDK what
+9:00 PM - Duck: but we'll figure that out later
+9:00 PM - RJ: derp
+9:00 PM - Duck: LOL
+9:00 PM - RJ: xD
+9:00 PM - RJ: fawk
+9:00 PM - Duck: it will work
+9:00 PM - Duck: trust me
+9:01 PM - Duck: let's just continue
+9:01 PM - RJ: Kk
+9:01 PM - RJ: Sec
+9:01 PM - RJ: Annoying customer =/
+9:01 PM - RJ: This guy threatened to charge back before he didn't include his shipping email
+9:01 PM - Duck: LOL
+9:01 PM - RJ: He didn't even ask for help to fix the issue =/
+9:02 PM - Duck: pretty dickish
+9:02 PM - RJ: Ye
+9:02 PM - RJ: I made him believe that I had to go deep within my inner workings to make it so he got his key xD
+9:02 PM - Duck: you put up a well guise
+9:02 PM - RJ: ?
+9:03 PM - Duck: guise = mask
+9:03 PM - RJ: When talking to him? :P
+9:03 PM - Duck: yeah
+9:03 PM - Duck: ahaha
+9:03 PM - Duck: guise is like a devious mask
+9:03 PM - RJ: Ye, I do it to all of my customers
+9:03 PM - Duck: public apperance
+9:03 PM - RJ: I'm always kind and respectful, but on the inside, I'd murder them all
+9:03 PM - Duck: LOOOOL
+9:03 PM - RJ: xD
+9:03 PM - Duck: alright
+9:03 PM - Duck: copy this code some place safe
+9:04 PM - Duck: we're about to do this without the functions
+9:04 PM - RJ: The RayJay code?
+9:04 PM - Duck: everything that is premade
+9:04 PM - Duck: print, table::Create, etc
+9:04 PM - Duck: LUA-> stuff is okay
+9:04 PM - Duck: here I'll copy it
+9:04 PM - RJ: Can't we just do a new project? :(
+9:04 PM - Duck: would be faster this way
+9:04 PM - Duck: we can modify it as much as we want
+9:04 PM - RJ: But I like it the way it is
+9:05 PM - Duck: if you REALLY wanna learn the actual stack
+9:05 PM - Duck: I recommend avoiding this
+9:05 PM - Duck: until you learn it
+9:05 PM - RJ: Sec
+9:05 PM - RJ: There
+9:05 PM - RJ: :D
+9:05 PM - Duck: you ain't gettin it o.o
+9:05 PM - Duck: look
+9:05 PM - Duck: here
+9:05 PM - RJ: ?
+9:06 PM - Duck: I copied it to my computer
+9:06 PM - Duck: no matter what we change
+9:06 PM - RJ: Ye, I copied the entire project :P
+9:06 PM - Duck: we can just paste it back
+9:06 PM - Duck: but whyyy
+9:06 PM - RJ: Safety
+9:06 PM - Duck: we only have one file
+9:06 PM - Duck: mkay lool
+9:06 PM - RJ: SAFETY
+9:06 PM - RJ: DAMNIT
+9:07 PM - Duck: first
+9:07 PM - Duck: let's get the global table
+9:07 PM - Duck: we need to push it onto the stack
+9:07 PM - RJ: Ye
+9:07 PM - Duck: LUA->PushSpecial(SPECIAL_GLOB)
+9:08 PM - RJ: Says you have two connections to tv
+9:08 PM - Duck: weird
+9:08 PM - Duck: ehh just ignore it
+9:08 PM - RJ: Kk
+9:08 PM - Duck: now where is it on the stack?
+9:08 PM - Duck: what position is the global table in?
+9:08 PM - RJ: Top
+9:08 PM - Duck: and what number is that?
+9:08 PM - RJ: -1
+9:08 PM - Duck: good work
+9:08 PM - RJ: :D
+9:08 PM - Duck: :D
+9:08 PM - RJ: Lol
+9:09 PM - Duck: so now we need to get a field in the table
+9:09 PM - Duck: do you know what a field is?
+9:09 PM - RJ: Ye, all big and grassy :V
+9:09 PM - Duck: nah, dem lua fields
+9:09 PM - RJ: :P
+9:09 PM - RJ: Refresh?
+9:09 PM - Duck: CloudAuthX.External
+9:09 PM - Duck: CloudAuthX is the table
+9:09 PM - RJ: Ye
+9:09 PM - Duck: External is the field
+9:09 PM - RJ: Ahh
+9:09 PM - Duck: everything with . before it is a field
+9:09 PM - RJ: Ahhh, yes
+9:09 PM - RJ: Ye, I know
+9:09 PM - RJ: now
+9:09 PM - Duck: alrighty
+9:09 PM - Duck: so now
+9:10 PM - Duck: we need to create a tablee
+9:10 PM - Duck: LUA->CreateTable();
+9:10 PM - Duck: that places an empty table on top of the stack
+9:10 PM - Duck: do you know where the global table is now?
+9:10 PM - RJ: Then we gotta assign it?
+9:10 PM - RJ: 0?
+9:10 PM - Duck: -2
+9:10 PM - RJ: Ah
+9:10 PM - Duck: I don't blame you for not knowing that
+9:10 PM - RJ: First time I'm working with DLLs :P
+9:11 PM - Duck: you're doing pretty good tbh
+9:11 PM - Duck: the worst part is getting it set up
+9:11 PM - RJ: Ye
+9:11 PM - Duck: so little documentation
+9:11 PM - Duck: so we have an empty table
+9:11 PM - Duck: now we need to push our CFunction
+9:11 PM - Duck: LUA->PushCFunc
+9:11 PM - Duck: yep yep
+9:12 PM - Duck: now we push the string that we want to call it
+9:12 PM - Duck: the function
+9:12 PM - Duck: go ahead and push a string
+9:12 PM - Duck: only 1 arg needed
+9:12 PM - RJ: Then we assign the string?
+9:12 PM - Duck: for the table
+9:13 PM - Duck: sec
+9:13 PM - Duck: okay
+9:13 PM - Duck: push the string you want to name the table
+9:14 PM - RJ: Uh...
+9:14 PM - Duck: we named the function
+9:14 PM - Duck: now we need to name the table
+9:14 PM - Duck: push some string
+9:14 PM - Duck: of what you want the table to be
+9:15 PM - RJ: I thought you wanted me to assign it as well, but nvm that
+9:15 PM - Duck: mm
+9:15 PM - Duck: well
+9:15 PM - RJ: Well, I know I will be
+9:15 PM - RJ: But
+9:15 PM - RJ: Not just yet
+9:15 PM - Duck: we'll make the func and stuff first
+9:15 PM - Duck: in the table
+9:15 PM - Duck: before we make the actual func
+9:15 PM - RJ: Kk
+9:15 PM - Duck: now I'm not so sure about this
+9:15 PM - Duck: but try
+9:16 PM - Duck: LUA->SetTable(-5)
+9:16 PM - Duck: that's where our global table is located
+9:16 PM - Duck: so I think that's how we name it.
+9:16 PM - Duck: go ahead and rebuild it
+9:16 PM - Duck: and place it in the bin
+9:16 PM - RJ: So each LUA thing we call adds another -1 to its position?
+9:16 PM - Duck: yeah
+9:17 PM - Duck: there's 5 things we pushed so it'd be at -5
+9:17 PM - RJ: Ye
+9:18 PM - Duck: LOL
+9:18 PM - RJ: LOLyou do it
+9:18 PM - Duck: try that
+9:19 PM - Duck: sheeeit
+9:20 PM - Duck: try that
+9:20 PM - Duck: ugghh
+9:20 PM - RJ: dun worry
+9:20 PM - RJ: I got the plugin working
+9:20 PM - RJ: Soz
+9:21 PM - Duck: ahaha
+9:21 PM - Duck: well
+9:21 PM - Duck: try -4
+9:21 PM - Duck: it won't work
+9:21 PM - Duck: try -4
+9:21 PM - Duck: ima look up on settable
+9:21 PM - Duck: in the meantime
+9:21 PM - RJ: Kk
+9:22 PM - RJ: nnnnnnng
+9:23 PM - Duck: last try
+9:23 PM - Duck: let's go
+9:23 PM - Duck: fuck it's still nil wtf
+9:25 PM - Duck: damn, I really don't know
+9:25 PM - RJ: :(
+9:25 PM - Duck: I suppose you could use the methods
+9:25 PM - Duck: and we'll figure that out another time
+9:25 PM - RJ: i has idea
+9:26 PM - RJ: Just copy/paste all of the function's contents :D
+9:26 PM - Duck: dats different
+9:26 PM - RJ: ja :(
+9:26 PM - Duck: more organized to just use them
+9:26 PM - Duck: wait
+9:26 PM - Duck: let me show you how to call a function
+9:26 PM - Duck: really simple
+9:27 PM - Duck: so now the global table is on top of the stack
+9:27 PM - Duck: what function should we use?
+9:27 PM - RJ: Did you save the project?
+9:27 PM - Duck: IDK
+9:28 PM - RJ: twas the same thing here?
+9:28 PM - Duck: IDK what's going on
+9:28 PM - RJ: nnnnnnnnnng
+9:28 PM - Duck: what function do you want to use
+9:28 PM - Duck: as an example
+9:28 PM - RJ: Fuck()
+9:28 PM - Duck: okay
+9:28 PM - RJ: Wait
+9:28 PM - RJ: No
+9:28 PM - RJ: sexpornall()
+9:28 PM - Duck: loool
+9:28 PM - Duck: alrighty
+9:28 PM - Duck: if it's a global function
+9:28 PM - Duck: then what table is it in
+9:29 PM - RJ: c16
+9:29 PM - Duck: no for reals
+9:29 PM - RJ: sexpornall.c16()
+9:29 PM - Duck: for reallss man
+9:29 PM - RJ: gah
+9:29 PM - RJ: function.table()
+9:29 PM - Duck: no
+9:29 PM - RJ: Wait
+9:29 PM - RJ: probably too generic
+9:29 PM - Duck: TABLE.function()
+9:29 PM - RJ: and garry ate it
+9:29 PM - RJ: Umm
+9:29 PM - Duck: where is a global function located in
+9:29 PM - Duck: what table is it in
+9:30 PM - RJ: awesome
+9:30 PM - RJ: the awesome table
+9:30 PM - Duck: no dude for reals you're jokin too much
+9:30 PM - RJ: I'm serious.
+9:30 PM - RJ: I'm bad at names.
+9:30 PM - Duck: the global tale
+9:30 PM - Duck: table*
+9:30 PM - RJ: Ohhhh
+9:30 PM - Duck: everything global is in the global table
+9:30 PM - RJ: You wanted me to tell you what it is?
+9:30 PM - RJ: Not make one?
+9:30 PM - Duck: yeah
+9:30 PM - RJ: ooooooooooooooooooooooooooooh
+9:30 PM - RJ: lol
+9:31 PM - Duck: in lua, how can we access the global table?
+9:31 PM - RJ: _something?
+9:31 PM - Duck: _G
+9:31 PM - RJ: Ye
+9:31 PM - Duck: now the global table has fields in it
+9:31 PM - Duck: _G.print
+9:31 PM - Duck: _G.RunString
+9:32 PM - Duck: _G.print is equal to print
+9:32 PM - RJ: Would it be okay if we stopped here?
+9:32 PM - RJ: Brain is starting to die on me
+9:32 PM - Duck: sure
+9:32 PM - Duck: but this part
+9:32 PM - Duck: is easy
+9:32 PM - Duck: would only take a min
+9:32 PM - RJ: Kk
+9:32 PM - Duck: these are called fields
+9:32 PM - Duck: they are inside tables
+9:32 PM - Duck: we can use
+9:32 PM - Duck: LUA->GetField
+9:32 PM - Duck: to put it on top of the stack
+9:33 PM - Duck: try that now
+9:33 PM - Duck: what location
+9:33 PM - Duck: is the global table in
+9:33 PM - Duck: and now for the string
+9:33 PM - Duck: the global function you want to run
+9:33 PM - Duck: yep
+9:33 PM - Duck: so now that function is on top of the stack
+9:33 PM - Duck: push 1 argument onto the stack now
+9:33 PM - Duck: it can be any type
+9:34 PM - Duck: just push a string
+9:34 PM - Duck: now the final steps
+9:34 PM - Duck: the actual call to make the function run
+9:34 PM - Duck: LUA->Call(1, 0);
+9:34 PM - Duck: the first argument here is the amount of arguments you are providing the function
+9:35 PM - Duck: we have pushed 1 argument
+9:35 PM - Duck: the second arg is how many results you expect
+9:35 PM - Duck: we expect no returns so we leave it at 0
+9:35 PM - Duck: then we use
+9:35 PM - Duck: LUA->Pop(); to remove it from the stack
+9:35 PM - Duck: and we're done
+9:36 PM - Duck: so it's basically this
+9:36 PM - Duck: Get the function somehow
+9:36 PM - Duck: Usually a field or reference
+9:36 PM - RJ: nnnnnnnnnnnnnng
+9:36 PM - Duck: Push your arguments in the order you want to call them in
+9:36 PM - Duck: push the first arg first, second second, etc
+9:36 PM - RJ: So
+9:36 PM - RJ: Question
+9:36 PM - RJ: I could do something like this?
+9:36 PM - RJ: ?
+9:36 PM - Duck: correct
+9:36 PM - RJ: Ah
+9:37 PM - Duck: always use LUA->Pop after you do this procedure
+9:37 PM - RJ: So this would make it work correctly?
+9:37 PM - RJ: Whole kick and caboodle?
+9:37 PM - Duck: if we pushed the RayJay table yeah
+9:37 PM - Duck: we pushed the global table so it's looking for
+9:37 PM - Duck: _G.Auth
+9:37 PM - RJ: Would Auth have to be RayJay?
+9:37 PM - Duck: yes
+9:37 PM - RJ: Like so?
+9:37 PM - Duck: yep
+9:37 PM - Duck: then you'd call GetField again
+9:38 PM - Duck: because RayJay is on top of the stack
+9:38 PM - Duck: so it would get the field called Auth from RayJay (cause it's on top)
+9:38 PM - Duck: then you push your args, call it, pop it
+9:38 PM - Duck: GetField("RayJay")
+9:38 PM - Duck: GetField("Auth")
+9:39 PM - Duck: if you ran this it wouldn't work cause there is no rayjay table
+9:39 PM - Duck: but yeah, that's how you call functions
+9:39 PM - Duck: I'll teach you how to get variables later
+9:39 PM - RJ: Awesome
+9:39 PM - Duck: it's similar to calling funcs
+9:39 PM - RJ: Kk
+9:39 PM - Duck: when you wanna continue?
+9:39 PM - RJ: Tomorrow :P
+9:39 PM - RJ: Funny enough, I'm starting my programming course tomorrow
+9:40 PM - Duck: damn that was quick
+9:40 PM - RJ: But it's all of that silly intro stuff
+9:40 PM - RJ: Not for college
+9:40 PM - Duck: oooooh
+9:40 PM - RJ: High school
+9:40 PM - Duck: I see
+9:40 PM - Duck: you're gonna be "that guy"
+9:40 PM - Duck: in the class I'm guessing
+9:40 PM - RJ: We're doing simple stuff compared to this
+9:40 PM - Duck: what language?
+9:40 PM - RJ: I've always been that guy :P
+9:40 PM - Duck: me too
+9:40 PM - Duck: LOL
+9:40 PM - RJ: Object orientated
+9:40 PM - RJ: :P
+9:40 PM - RJ: Sadly not enough people signed up for the class so it's an online course
+9:40 PM - Duck: oooooh
+9:40 PM - Duck: I see
+9:41 PM - RJ: We were short by like 3 people
+9:41 PM - Duck: RIP
+9:41 PM - RJ: :P
+9:41 PM - RJ: And when you say that guy, you mean extremely handsome and smart right?
+9:41 PM - Duck: yes
+9:41 PM - RJ: Kk
+9:41 PM - Duck: the guy that every one is like
+9:41 PM - RJ: HOW DO!??!?
+9:41 PM - Duck: this nigga knows everything about computers
+9:41 PM - Duck: PLS DO 4 ME
+9:41 PM - RJ: Lol, yep
+9:41 PM - RJ: I was that guy xD
+9:41 PM - Duck: LOOOL
+9:42 PM - RJ: I eventually just plugged in my headphones and ignored them
+9:42 PM - RJ: Even though I finished the course 1-2 months early =/
+9:42 PM - RJ: :v
+9:42 PM - Duck: that's a good sign
+9:42 PM - RJ: Ye
+9:42 PM - Duck: you're into advanced shiz
+9:42 PM - RJ: Teacher was impressed
+9:42 PM - RJ: Ye
+9:43 PM - RJ: I've always noticed that about myself, I'm always working on advanced stuff and never bothering with the simple stuff :P
+9:43 PM - Duck: we are alike
+9:43 PM - RJ: Lol
+9:43 PM - RJ: We're made for each other :D
+9:43 PM - Duck: fkmenow
+9:43 PM - RJ: get in mahpants
+9:43 PM - Duck: ahahaha
+9:43 PM - RJ: partytiem
+9:43 PM - Duck: I'll cya tomorrow man
+9:43 PM - RJ: Cya later
+9:43 PM - Duck: if I'm not on and you wanna continue a little without me
+9:43 PM - RJ: Wait
+9:43 PM - Duck: you can google "lua c api"
+9:43 PM - RJ: You're in college/university?
+9:43 PM - Duck: nope
+9:43 PM - Duck: 12th
+9:43 PM - RJ: Ahh
+9:44 PM - RJ: You planning on going to college or uni?
+9:44 PM - Duck: maybe not immediately, but I plan on going
+9:44 PM - RJ: I wanted to go to uni, sadly I'm better suited to the college course
+9:44 PM - RJ: I got low 60s in uni, nearly failed last year
+9:44 PM - RJ: This year, I'm in high 90s :P
+9:44 PM - RJ: Although my uni programming was 86 or so :P
+9:45 PM - Duck: keep at it, yo
+9:45 PM - RJ: Ja
+9:45 PM - RJ: But anyways, I'll talk to you later
+9:45 PM - Duck: yep yep
+9:45 PM - Duck: ciao
+9:45 PM - RJ: Bah bai

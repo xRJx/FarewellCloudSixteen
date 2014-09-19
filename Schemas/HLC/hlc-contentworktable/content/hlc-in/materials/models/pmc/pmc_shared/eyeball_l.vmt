@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/PMC/PMC_Shared/eyeball_l"
+	"$iris" "models/PMC/PMC_Shared/pupil_l"
+	"$halflambert" 1
+}
